@@ -110,6 +110,6 @@ const developer = {
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/anharfhdn/anharfhdn/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/anharfhdn/anharfhdn/output/github-snake.svg)
 
 </div>
