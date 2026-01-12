@@ -17,10 +17,14 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: anharfhdn
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-snake.svg
       
+      - name: Generate Snake (Dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: anharfhdn
+          svg_out_path: dist/github-snake-dark.svg
+          
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
