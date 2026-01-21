@@ -29,11 +29,11 @@ const developer = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anharfhdn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anharfhdn&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anharfhdn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
 
 </div>
 
@@ -58,7 +58,7 @@ const developer = {
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=anharfhdn&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15)
 
 </div>
 
@@ -66,7 +66,7 @@ const developer = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anharfhdn&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -74,8 +74,8 @@ const developer = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_USERNAME/PROJECT_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_USERNAME/PROJECT_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anharfhdn&repo=PROJECT_1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/anharfhdn/PROJECT_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anharfhdn&repo=PROJECT_2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/anharfhdn/PROJECT_2)
 
 </div>
 
