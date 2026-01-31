@@ -11,16 +11,16 @@
 ```typescript
 const developer = {
     name: "Anhar Fahrudin",
-    role: "Software Programmer",
+    role: "Full-Stack | Web3 Developer",
     location: "Bogor, Indonesia",
-    code: ["Go", "Solidity", "JavaScript", "TypeScript", "Python", "Go"],
+    experience: "3+ years",
     technologies: {
-        frontend: ["React", "Next.js", "Vue", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Django", "FastAPI"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "GitHub Actions"],
+        blockchain: ["Solidity", "EVM", "Smart Contracts", "Foundry", "DeFi", "NFT", "Gas Optimization", "IPFS"],
+        backend: ["Go", "PHP", "JavaScript", "Kotlin", "PostgreSQL", "MySQL", "MSSQL", "CodeIgniter"],
+        frontend: ["JavaScript", "Next.js", "Vue.js", "Kotlin", "JQuery"],
+        systems: ["C", "C++", "Arduino C++", "ESP32", "ESP8266", "PLC", "Git", "Linux", "Postman"],
     },
-    currentFocus: "Building scalable applications",
+    currentFocus: "Industrial IoT & Solidity Architecture",
     funFact: "I debug with console.log 🐛"
 };
 ```
@@ -88,14 +88,6 @@ const developer = {
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anharfahrudin21@gmail.com)
 
 </div>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://yourblog.com/post1)
-- [Blog Post Title 2](https://yourblog.com/post2)
-- [Blog Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
