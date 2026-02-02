@@ -1,8 +1,8 @@
-# Hi there, I'm Anhar Fahrudin 👋 [on progress]
+# Hi there, I'm Anhar Fahrudin 👋
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=435&lines=Software+Programmer;Web3+Enthusiast;Problem+Solver;Lifelong+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Backend+/+Full-Stack+Engineer;Web3+Blockchain+Smart+Contract;Systems+%26+B2B+Applications;Problem+Solver;Lifelong+Learner)
 
 </div>
 
@@ -82,6 +82,9 @@ const developer = {
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anharfhdn&theme=react-dark&hide_border=true&area=true)
 
+### Internal Company Gitlab Activity 2025
+![Activity Gitlab Graph 2025](https://lh3.googleusercontent.com/u/0/d/1y9iEbM8DjAKxzqrriTc1FP4jb-iuVo2I)
+
 </div>
 
 ## 🔥 Recent Projects
@@ -108,8 +111,6 @@ const developer = {
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=anharfhdn&color=2E9EF7&style=for-the-badge)
-
-### ⭐️ From [Anhar Fahrudin](https://github.com/anharfhdn)
 
 </div>
 
