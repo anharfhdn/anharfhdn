@@ -1,121 +1,105 @@
-# Hi there, I'm Anhar Fahrudin 👋
+<h1 data-importer="text" align="left">Hii, I'm Anhar Fahrudin 👋</h1>
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Backend+/+Full-Stack+Engineer;Web3+Blockchain+Smart+Contract;Systems+%26+B2B+Applications;Problem+Solver;Lifelong+Learner)
+###
 
+<p data-importer="text" align="left">I build software for industrial automation, backend systems, and IoT applications. Passionate about solving real-world problems through software, with a growing interest in AI and AI-powered applications.</p>
+
+###
+
+<p data-importer="text" align="left">💻 3+ years of professional software engineering experience<br>⚙️ Building software for industrial and business applications<br>🤖 Exploring AI engineering and intelligent applications<br>🚀 Always learning, building, and improving</p>
+
+###
+
+<p data-importer="text" align="left"></p>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="48" alt="go logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" alt="php logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="48" alt="rust logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=idea" height="48" alt="intellijidea logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vue" height="48" alt="vuejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="c logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=cs" height="48" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=bash" height="48" alt="bash logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="48" alt="grafana logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="48" alt="prometheus logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="48" alt="codeigniter logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="48" alt="embeddedc logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="jupyter logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="48" alt="laravel logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="48" alt="podman logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="postgresql logo"  />
 </div>
 
-## 🚀 About Me
+###
 
-```typescript
-const developer = {
-    name: "Anhar Fahrudin",
-    role: "Full-Stack | Web3 Developer",
-    location: "Bogor, Indonesia",
-    experience: "3+ years",
-    technologies: {
-        blockchain: ["Solidity", "EVM", "Smart Contracts", "Foundry", "DeFi", "NFT", "Gas Optimization", "IPFS"],
-        backend: ["Go", "PHP", "JavaScript", "Kotlin", "PostgreSQL", "MySQL", "MSSQL", "CodeIgniter"],
-        frontend: ["JavaScript", "Next.js", "Vue.js", "Kotlin", "JQuery"],
-        systems: ["C", "C++", "Arduino C++", "ESP32", "ESP8266", "PLC", "Git", "Linux", "Postman"],
-    },
-    currentFocus: "Industrial IoT & Solidity Architecture",
-    funFact: "I debug with console.log 🐛"
-};
-```
+<p align="center">
+  <a href="https://anharfhdn.space/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f310.svg" height="30" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/anhar-fahrudin/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:anharfahrudin21@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/anharfhdn" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="30" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/anharfhdn" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="Discord" />
+  </a>
+</p>
 
-## 📊 GitHub Stats
+###
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anharfhdn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anharfhdn&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anharfhdn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
-
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=anharfhdn.anharfhdn&"  />
 </div>
 
-## 🛠️ Tech Stack
+###
 
-<div align="center">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anharfhdn/anharfhdn/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anharfhdn/anharfhdn/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anharfhdn/anharfhdn/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+</picture>
 
-### Blockchain & Web3
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-EVM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Foundry](https://img.shields.io/badge/-Foundry-4A4A4A?style=for-the-badge&logo=foundry&logoColor=white)
-![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-
-### Backend
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend & Mobile
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Systems & IoT
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=anharfhdn&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15)
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anharfhdn&theme=react-dark&hide_border=true&area=true)
-
-### Internal Company Gitlab Activity 2025
-![Activity Gitlab Graph 2025](https://lh3.googleusercontent.com/u/0/d/1y9iEbM8DjAKxzqrriTc1FP4jb-iuVo2I)
-
-</div>
-
-## 🔥 Recent Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anharfhdn&repo=PROJECT_1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/anharfhdn/PROJECT_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anharfhdn&repo=PROJECT_2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/anharfhdn/PROJECT_2)
-
-</div>
-
-## 💼 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anhar-fahrudin/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://anharproject.site/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anharfahrudin21@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=anharfhdn&color=2E9EF7&style=for-the-badge)
-
-</div>
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/anharfhdn/anharfhdn/output/github-snake.svg)
-
-</div>
+###
